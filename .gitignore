@@ -1,0 +1,6 @@
+# Environment
+.venv
+
+# Datasets
+/data/exercise_data_*.csv
+/data/features.*
